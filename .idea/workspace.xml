@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
+            <state relative-caret-position="306">
+              <caret line="122" column="32" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -38,7 +38,7 @@
       <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/jquery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8010">
+            <state relative-caret-position="-8250">
               <caret line="1" column="796" selection-start-line="1" selection-start-column="796" selection-end-line="1" selection-end-column="796" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -199,12 +199,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1471678917609</updated>
-      <workItem from="1471678919019" duration="1555000" />
+      <workItem from="1471678919019" duration="1801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1555000" />
+    <option name="totallyTimeSpent" value="1801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="48" width="1200" height="679" extended-state="0" />
@@ -252,9 +252,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsrender.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2205">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8010">
+        <state relative-caret-position="-8250">
           <caret line="1" column="796" selection-start-line="1" selection-start-column="796" selection-end-line="1" selection-end-column="796" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -264,8 +274,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
+        <state relative-caret-position="306">
+          <caret line="122" column="32" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
           <folding />
         </state>
       </provider>
